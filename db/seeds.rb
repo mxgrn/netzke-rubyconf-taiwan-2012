@@ -13,3 +13,15 @@ Book.create [
   { title: "Tales of Power", purchased_on: "2009-12-06"},
   { title: "Damian", purchased_on: "2009-12-06"}
 ]
+
+Author.create [
+  { name: "Carlos Castaneda" },
+  { name: "Vladimir Nabokov" },
+  { name: "Herman Hesse" }
+]
+
+Friend.create [
+  { name: "Alex" },
+  { name: "Anna" },
+  { name: "Diann" }
+]
