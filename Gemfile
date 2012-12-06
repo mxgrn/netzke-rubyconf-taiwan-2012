@@ -9,6 +9,7 @@ gem 'mysql2'
 
 gem 'netzke-core', path: '~/code/netzke/netzke-core'
 gem 'netzke-basepack', path: '~/code/netzke/netzke-basepack'
+gem 'netzke-communitypack', path: '~/code/netzke/netzke-communitypack'
 
 # Gems used only for assets and not required
 # in production environments by default.
