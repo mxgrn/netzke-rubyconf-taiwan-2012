@@ -5,6 +5,13 @@ PATH
       netzke-core (~> 0.8.0)
 
 PATH
+  remote: ~/code/netzke/netzke-communitypack
+  specs:
+    netzke-communitypack (0.8.0)
+      netzke-basepack (~> 0.8.0)
+      rails (>= 3.0.0)
+
+PATH
   remote: ~/code/netzke/netzke-core
   specs:
     netzke-core (0.8.0)
@@ -120,6 +127,7 @@ DEPENDENCIES
   jquery-rails
   mysql2
   netzke-basepack!
+  netzke-communitypack!
   netzke-core!
   rails (= 3.2.9)
   sass-rails (~> 3.2.3)
