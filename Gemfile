@@ -7,8 +7,8 @@ gem 'rails', '3.2.9'
 
 gem 'mysql2'
 
-gem 'netzke-core', github: 'nomadcoder/netzke-core'
-gem 'netzke-basepack', github: 'nomadcoder/netzke-basepack'
+gem 'netzke-core', path: '~/code/netzke/netzke-core'
+gem 'netzke-basepack', path: '~/code/netzke/netzke-basepack'
 
 # Gems used only for assets and not required
 # in production environments by default.
